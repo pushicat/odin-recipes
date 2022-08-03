@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is about learning and getting better at HTML.
+Foundations 44 % Complete.
